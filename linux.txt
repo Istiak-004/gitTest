@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is a testing for git in ubuntu , how fun is thsus 
 this is too important 
+=======
+this is a testing for git in ubuntu...make some fun off me !!!
+>>>>>>> origin
